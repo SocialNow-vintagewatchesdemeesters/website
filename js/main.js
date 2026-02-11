@@ -364,7 +364,27 @@ if (typeof db !== 'undefined') {
     .then(function(snapshot) {
       if (!snapshot.empty) {
         watches = snapshot.docs.map(function(doc) {
-          return doc.data();
+          const d = doc.data();
+          // Patch known bad image URLs (non-watch photos)
+          const badImages = {
+            'photo-1623998022290-a74f8cc36563': 'photo-1587925358603-c2eea5305bbc',
+            'photo-1626220789830-8747a0bdcfac': 'photo-1587925358603-c2eea5305bbc',
+            'photo-1614164185128-e4ec99c436d7': 'photo-1600721391689-2564bb8055de',
+            'photo-1609587312208-cea54be969e7': 'photo-1612817159949-195b6eb9e31a',
+            'photo-1587836374828-4dbafa94cf0e': 'photo-1627037558426-c2d07beda3af',
+            'photo-1548171915-e79a380a2a4b': 'photo-1622434641406-a158123450f9',
+            'photo-1539874754764-5a96559165b0': 'photo-1614946019068-8254921fe95b',
+            'photo-1509941943102-10c232535736': 'photo-1627037558426-c2d07beda3af'
+          };
+          if (d.image) {
+            for (const [bad, good] of Object.entries(badImages)) {
+              if (d.image.includes(bad)) {
+                d.image = d.image.replace(bad, good);
+                break;
+              }
+            }
+          }
+          return d;
         });
         // Re-render with Firestore data
         if (document.getElementById('watch-grid')) {
