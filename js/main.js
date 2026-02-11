@@ -119,7 +119,7 @@ const _hardcodedWatches = [
     band: "Oyster steel",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1627037558426-c2d07beda3af?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1636639818651-d97365346a5c?w=800&q=80"
   },
   {
     name: "Rolex Datejust 2 Black roman dial 116334",
@@ -131,7 +131,7 @@ const _hardcodedWatches = [
     band: "Oyster steel",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1622434641406-a158123450f9?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80"
   },
   {
     name: "Rolex Yachtmaster blue dial",
@@ -143,7 +143,7 @@ const _hardcodedWatches = [
     band: "Oyster bracelet (steel)",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1622434641406-a158123450f9?w=800&q=80"
   },
   {
     name: "Rolex Submariner 16613 LB bluessy",
@@ -155,7 +155,7 @@ const _hardcodedWatches = [
     band: "Oyster bracelet (steel)",
     box: "Yes",
     paper: "No",
-    image: "https://images.unsplash.com/photo-1587925358603-c2eea5305bbc?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1730757679771-b53e798846cf?w=800&q=80"
   },
   {
     name: "Rolex Daytona white dial & baguettes",
@@ -167,7 +167,7 @@ const _hardcodedWatches = [
     band: "Oyster bracelet (gold)",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1600721391689-2564bb8055de?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?w=800&q=80"
   },
   {
     name: "Rolex Submariner Starbucks",
@@ -191,7 +191,7 @@ const _hardcodedWatches = [
     band: "Steel",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&q=80"
   },
   {
     name: "Rolex GMT-Master 126710 BLNR",
@@ -203,7 +203,7 @@ const _hardcodedWatches = [
     band: "Oyster bracelet (steel)",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1618220179428-22790b461013?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1670404160620-a3a86428560e?w=800&q=80"
   },
   {
     name: "Breitling Chronomat B13050.01 UTC",
@@ -215,7 +215,7 @@ const _hardcodedWatches = [
     band: "Goud/staal",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1614946019068-8254921fe95b?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1548169874-53e85f753f1e?w=800&q=80"
   },
   {
     name: "Rolex Datejust 126300 Azzurro oyster",
@@ -227,7 +227,7 @@ const _hardcodedWatches = [
     band: "Steel",
     box: "Yes",
     paper: "No",
-    image: "https://images.unsplash.com/photo-1639037687537-1f12e2088891?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1649357585015-179ed98f513d?w=800&q=80"
   },
   {
     name: "Rolex Datejust 41 Blue Dial – Jubilee – Full Set",
@@ -239,7 +239,7 @@ const _hardcodedWatches = [
     band: "Jubilee – full links",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1625043094520-5c1da4c4d9d5?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1671119720870-df45dcaf81c1?w=800&q=80"
   },
   {
     name: "Rolex Datejust 126334 Blue dial",
@@ -251,7 +251,7 @@ const _hardcodedWatches = [
     band: "Staal – full links",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1640955014216-9e3d26eef498?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=800&q=80"
   },
   {
     name: "Rolex Submariner 126610LN",
@@ -263,7 +263,7 @@ const _hardcodedWatches = [
     band: "Oyster – full links",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1548169874-53e85f753f1e?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1634595947394-87012e7b12ba?w=800&q=80"
   },
   {
     name: "Rolex Datejust 126234",
@@ -275,7 +275,7 @@ const _hardcodedWatches = [
     band: "Steel – full links",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1627037558426-c2d07beda3af?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?w=800&q=80"
   },
   {
     name: "Rolex GMT-Master Black Dial 116713LN",
@@ -287,7 +287,7 @@ const _hardcodedWatches = [
     band: "Gold Steel",
     box: "Yes",
     paper: "Yes",
-    image: "https://images.unsplash.com/photo-1618220179428-22790b461013?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1587925358603-c2eea5305bbc?w=800&q=80"
   },
   {
     name: "Rolex Oyster Perpetual 126000",
@@ -299,7 +299,7 @@ const _hardcodedWatches = [
     band: "Steel",
     box: "Yes",
     paper: "No",
-    image: "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?w=800&q=80"
+    image: "https://images.unsplash.com/photo-1604242692760-2f7b0c26856d?w=800&q=80"
   }
 ];
 
@@ -364,27 +364,7 @@ if (typeof db !== 'undefined') {
     .then(function(snapshot) {
       if (!snapshot.empty) {
         watches = snapshot.docs.map(function(doc) {
-          const d = doc.data();
-          // Patch known bad image URLs (non-watch photos)
-          const badImages = {
-            'photo-1623998022290-a74f8cc36563': 'photo-1587925358603-c2eea5305bbc',
-            'photo-1626220789830-8747a0bdcfac': 'photo-1587925358603-c2eea5305bbc',
-            'photo-1614164185128-e4ec99c436d7': 'photo-1600721391689-2564bb8055de',
-            'photo-1609587312208-cea54be969e7': 'photo-1612817159949-195b6eb9e31a',
-            'photo-1587836374828-4dbafa94cf0e': 'photo-1627037558426-c2d07beda3af',
-            'photo-1548171915-e79a380a2a4b': 'photo-1622434641406-a158123450f9',
-            'photo-1539874754764-5a96559165b0': 'photo-1614946019068-8254921fe95b',
-            'photo-1509941943102-10c232535736': 'photo-1627037558426-c2d07beda3af'
-          };
-          if (d.image) {
-            for (const [bad, good] of Object.entries(badImages)) {
-              if (d.image.includes(bad)) {
-                d.image = d.image.replace(bad, good);
-                break;
-              }
-            }
-          }
-          return d;
+          return doc.data();
         });
         // Re-render with Firestore data
         if (document.getElementById('watch-grid')) {
