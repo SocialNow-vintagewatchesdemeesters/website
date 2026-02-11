@@ -1219,3 +1219,9 @@ p {
   0%, 100% { opacity: 0.4; }
   50% { opacity: 1; }
 }
+
+/* ---------- ElevenLabs Chatbot Widget ---------- */
+elevenlabs-convai {
+  --elevenlabs-convai-orb-color: var(--color-gold);
+  z-index: 999;
+}
