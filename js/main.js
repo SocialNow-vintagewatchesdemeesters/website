@@ -391,6 +391,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
+/* ---------- Hide ElevenLabs expand/fullscreen button ---------- */
+function hideElevenLabsExpand() {
+  const widget = document.querySelector('elevenlabs-convai');
+  if (widget && widget.shadowRoot) {
+    const expandBtn = widget.shadowRoot.querySelector('[aria-label="Expand widget"]');
+    if (expandBtn) { expandBtn.style.display = 'none'; return; }
+  }
+  setTimeout(hideElevenLabsExpand, 500);
+}
+setTimeout(hideElevenLabsExpand, 1000);
+
 /* ============================================
    Analytics is now handled by Google Analytics 4
    Measurement ID: G-F31KW332BS
